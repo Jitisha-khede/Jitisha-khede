@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jitisha Khede</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitisha-khede&label=Profile%20views&color=0e75b6&style=flat" alt="jitisha-khede" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitisha-khede" alt="jitisha-khede" /></a> </p>
-
 - 🌱 I’m currently learning **backend development**
 
 - 💬 Ask me about **html, css, js, node, c, c++, python, sql, java**
@@ -13,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@jitisha_khede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jitisha_khede" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jitisha-khede/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitisha-khede/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jitisha_khede" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jitisha_khede" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jitisha_khede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jitisha_khede" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
